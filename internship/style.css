@@ -1,0 +1,39 @@
+body{
+    background-color:#f2f2f2;
+    text-align:center;
+    font-family:Arial;
+}
+
+h1{
+    color:#2c3e50;
+}
+
+a{
+    background-color:green;
+    color:white;
+    padding:10px 15px;
+    text-decoration:none;
+    border-radius:5px;
+}
+<style>
+table {
+    width: 70%;              /* table chhoti thase */
+    margin: auto;
+    border-collapse: collapse;
+    font-size: 14px;         /* text size */
+}
+
+th, td {
+    padding: 6px 10px;       /* andar ni space */
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;         /* Available Events heading */
+}
+
+.btn {
+    padding: 4px 10px;       /* button size control */
+    font-size: 13px;
+}
+</style>
